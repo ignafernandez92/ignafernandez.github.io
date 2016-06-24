@@ -1,7 +1,11 @@
 ---
 ---
-header {
-background-image: url('http://www.qatartodayonline.com/wp-content/uploads/2013/02/Spread.gif');
+masthead. { 
+padding: 1em;
+
+background: #000531 url('http://www.qatartodayonline.com/wp-content/uploads/2013/02/Spread.gif') no-repeat center center;
+background-size: cover;
+
 }
 ---
 # Only the main Sass file needs front matter (the dashes are enough)

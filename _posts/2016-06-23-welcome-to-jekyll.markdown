@@ -1,6 +1,6 @@
 ---
-layout: post
-title:  "Welcome to Jekyll!"
+layout: Busca rival
+title:  "Ahora jugar es mas fácil"
 date:   2016-06-23 10:25:37 -0400
 categories: jekyll update
 ---
