@@ -16,8 +16,7 @@ dl, dd, ol, ul, figure {
 body {
     font: $base-font-weight #{$base-font-size}/#{$base-line-height} $base-font-family;
     color: $text-color;
-    background-color: green;
-    background-image: url('{{site.baseurl}} http://www.qatartodayonline.com/wp-content/uploads/2013/02/Spread.gif');
+    background-color: blue;
     -webkit-text-size-adjust: 100%;
     -webkit-font-feature-settings: "kern" 1;
     -moz-font-feature-settings: "kern" 1;
