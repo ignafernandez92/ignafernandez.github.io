@@ -6,11 +6,11 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Hay Equipos 
+title: HAY EQUIPOS
 email: hayequiposr@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Ahora jugar es mas facil!
-baseurl: "" # the subpath of your site, e.g. /blog
+  Busca rival!
+baseurl: "hayequipos.org" # the subpath of your site, e.g. /blog
 url: "http://www.campafutbol.com.ar"
 twitter_username: hayequipos
 Instagram_username: Hay_equipos
