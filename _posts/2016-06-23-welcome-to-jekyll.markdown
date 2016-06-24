@@ -1,6 +1,6 @@
 ---
-layout: Busca rival
-title:  "Ahora jugar es mas fácil"
+layout:
+title: 
 date:   2016-06-23 10:25:37 -0400
 categories: jekyll update
 ---
